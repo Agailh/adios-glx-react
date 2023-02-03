@@ -33,3 +33,16 @@
   margin-bottom: 1.6rem;
   color: #fff;
 }
+.hero .btn {
+  margin: 1rem 0.2rem;
+}
+
+@media and (max-width) {
+  .content h1 {
+    font-size: 3rem;
+  }
+  .content p {
+    font-size: 1.4rem;
+    margin-bottom: 1.6rem;
+  }
+}
