@@ -37,7 +37,7 @@
   margin: 1rem 0.2rem;
 }
 
-@media and (max-width) {
+@media screen and (max-width: 640px) {
   .content h1 {
     font-size: 3rem;
   }
